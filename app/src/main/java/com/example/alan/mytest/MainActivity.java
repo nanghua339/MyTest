@@ -17,4 +17,6 @@ public class MainActivity extends AppCompatActivity {
     public void feature(){
        int k=3;
     }
+     public void test(){
+    }
 }
