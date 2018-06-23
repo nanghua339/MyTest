@@ -15,12 +15,14 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void feature(){
-       int k=5;
+       int k=6;
     }
      public void test(){
     }
       public void test2(){
     }
     public void test3(){
+    }
+    public void test4(){
     }
 }
